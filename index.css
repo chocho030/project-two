@@ -1,0 +1,15 @@
+.small-block {
+  margin: 0.5rem;
+  flex: 1;
+  height: 4rem;
+  background-color: coral;
+}
+.big-block {
+  margin: 0.5rem;
+  flex: 2;
+  height: 4rem;
+  background-color: blue;
+}
+.block {
+  display: flex;
+}

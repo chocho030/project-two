@@ -1,14 +1,30 @@
-.small-block {
+.img-block {
+  margin: 0.5rem;
+  flex: 1;
+}
+
+.info-block {
+  margin: 0.5rem;
+  flex: 2;
+}
+
+.block1 {
   margin: 0.5rem;
   flex: 1;
   height: 4rem;
   background-color: coral;
 }
-.big-block {
+.block2 {
   margin: 0.5rem;
-  flex: 2;
+  flex: 1;
   height: 4rem;
   background-color: blue;
+}
+.block3 {
+  margin: 0.5rem;
+  flex: 1;
+  height: 4rem;
+  background-color: aquamarine;
 }
 .block {
   display: flex;
